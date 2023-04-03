@@ -4,7 +4,7 @@
  *  _memset - fill a memory block with a constant value
  *  @s: pointer to starting address
  *  @b: constant value
- *  @n: n value to be filled 
+ *  @n: n value to be filled
  *  Return: memory area
  */
 
